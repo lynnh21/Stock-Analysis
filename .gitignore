@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+~$Multiple_year_stock_data.xlsm
+Multiple_year_stock_data.xlsm
+
 # Distribution / packaging
 .Python
 build/
